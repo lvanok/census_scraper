@@ -1,0 +1,51 @@
+    .deleter{
+      text-align:right;
+    }
+    h1 {
+      font-size: 40px;
+      color:white;
+    }
+    h2 {
+      font-size: 20px;
+      color:white;
+    }
+    body{
+      text-align: center;
+      background-color: purple;
+    }
+    .deleter{
+      color: red;
+      margin-left: 20px;
+    }
+    input{
+      width:400px;
+      margin:0 auto;
+      font-size: 42px;
+      height:50px;
+      background-color: antiquewhite;
+    }
+    textarea{
+      width:400px;
+      margin:0 auto;
+      height:400px;
+      font-size: 24px;
+      background-color: antiquewhite;
+
+    }
+    #dataentry{
+      cursor: pointer;
+      font-size: 24px;
+    }
+    #results{
+      background-color: antiquewhite;
+      width:400px;
+      overflow: auto;
+      margin: 0 auto;
+      height:200px;
+    }
+    #actionbutton{
+      display: inline-block;
+    }
+    #buttons{
+      margin:20px;
+    }
